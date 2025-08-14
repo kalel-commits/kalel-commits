@@ -1,43 +1,38 @@
-<h2 align="left">Hi 👋! My name is Ajay and I'm a Frontend Dev, from India.</h2>
+<h2 align="left">Hi 👋! I'm Ajay — a Frontend Developer from India 🇮🇳</h2>
 
-###
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kalel-commits&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kalel-commits&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=kalel-commits&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kalel-commits&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
 </div>
 
-###
+---
 
-<img align="left" height="150" src="https://media.giphy.com/media/tHIRLHtNwxpjIFqPdV/giphy.gif?cid=82a1493b0qai3ezc49ki7yu9tbxse2i7c4xyq5sw83p49rnr&ep=v1_gifs_trending&rid=giphy.gif&ct=g"  />
+<img align="right" height="150" src="https://media.giphy.com/media/tHIRLHtNwxpjIFqPdV/giphy.gif" alt="coding gif" />
 
-###
-
+### 🚀 Tech Stack
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++" />
 </div>
 
-###
+---
 
+### 📫 Connect With Me
 <div align="left">
-  <a href="https://www.instagram.com/ajaybhalekar28?igsh=MXQwYnE2YXFlMmphNA==" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <a href="mailto:bhalekarajay61@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="35" />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <a href="bhalekarajay61@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="https://www.linkedin.com/in/ajay-bhalekar-760a1a324">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
   </a>
-  <a href="https://www.linkedin.com/in/ajay-bhalekar-760a1a324?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=7289DA&logoColor=white&style=for-the-badge" height="35" />
 </div>
-
-###
